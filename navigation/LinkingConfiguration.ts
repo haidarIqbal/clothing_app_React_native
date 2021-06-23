@@ -22,6 +22,16 @@ export default {
               TabTwoScreen: 'two',
             },
           },
+          TabThree: {
+            screens: {
+              TabTwoScreen: 'one',
+            },
+          },
+          TabFour: {
+            screens: {
+              TabTwoScreen: 'two',
+            },
+          },
         },
       },
       NotFound: '*',
